@@ -1,0 +1,11 @@
+#labels Featured,Phase-Requirements
+#In this page you can add your own feature requests for this plugin, take a look at my example, and go on. :)
+
+= Raúl Illana =
+
+  * Akismet like Badge / Widget ( number of comments )
+  * AJAX Comment Form Filtering Validation
+  * Filters Dictionary ( online creation / editing )
+  * Anti-user DB Tracking
+  * Anti-user Listing Badge / Widget for public humilliation
+  * Dynamic dumb image inclusion
